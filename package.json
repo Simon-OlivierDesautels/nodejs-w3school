@@ -4,7 +4,7 @@
   "description": "Going through the tutorial for NodeJS of w3school",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Simon-OlivierDesautels/nodejs-w3school/issues"
   },
-  "homepage": "https://github.com/Simon-OlivierDesautels/nodejs-w3school#readme"
+  "homepage": "https://github.com/Simon-OlivierDesautels/nodejs-w3school#readme",
+  "dependencies": {
+    "node": "^18.4.0",
+    "nodemon": "^2.0.16"
+  }
 }
