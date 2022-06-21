@@ -1,0 +1,23 @@
+{
+  "name": "w3school",
+  "version": "1.0.0",
+  "description": "Going through the tutorial for NodeJS of w3school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simon-OlivierDesautels/nodejs-w3school.git"
+  },
+  "keywords": [
+    "nodejs",
+    "w3school"
+  ],
+  "author": "Simon-Olivier Desautels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simon-OlivierDesautels/nodejs-w3school/issues"
+  },
+  "homepage": "https://github.com/Simon-OlivierDesautels/nodejs-w3school#readme"
+}
